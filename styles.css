@@ -194,6 +194,7 @@ footer{
 
     .child-secondary>p{
         font-size: 1rem;
+        margin: 0;
     }
 
     .content-clipboard>h3{
